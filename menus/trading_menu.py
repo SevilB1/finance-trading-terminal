@@ -1,15 +1,15 @@
 def run():
     while True:
-        print("====================================")
-        print("         TRADING TOOLS")
-        print("====================================")
-        print("1 - Risk Calculator")
-        print("2 - Position Size")
-        print("3 - Profit / Loss")
-        print("4 - Risk / Reward")
-        print("5 - Break Even")
-        print("6 - Back to Main Menu")
-        print("====================================")
+        print("╔══════════════════════════════════╗")
+        print("║         TRADING TOOLS            ║")
+        print("╠══════════════════════════════════╣")
+        print("║       1 - Risk Calculator        ║")
+        print("║       2 - Position Size          ║")
+        print("║       3 - Profit / Loss          ║")
+        print("║       4 - Risk / Reward          ║")
+        print("║       5 - Break Even             ║")
+        print("║       6 - Back to Main Menu      ║")
+        print("╚══════════════════════════════════╝")
 
         secim = input("Seciminiz: ")
 
@@ -38,3 +38,6 @@ def run():
 
         else:
             print("Gecersiz secim!")
+    
+
+  

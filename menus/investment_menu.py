@@ -1,14 +1,14 @@
 def run():
     while True:
-        print("====================================")
-        print("        INVESTMENT TOOLS")
-        print("====================================")
-        print("1 - Compound Growth Calculator")
-        print("2 - ROI Calculator")
-        print("3 - Simple Interest Calculator")
-        print("4 - Savings Goal Calculator")
-        print("5 - Back to Main Menu")
-        print("====================================")
+        print("╔══════════════════════════════════╗")
+        print("║       INVESTMENT TOOLS"          ║")
+        print("╠══════════════════════════════════╣")
+        print("║  1 - Compound Growth Calculator  ║")
+        print("║  2 - ROI Calculator              ║")
+        print("║  3 - Simple Interest Calculator  ║")
+        print("║  4 - Savings Goal Calculator     ║")
+        print("║  5 - Back to Main Menu           ║")
+        print("╚══════════════════════════════════╝")
 
         secim = input("Seciminiz: ")
 

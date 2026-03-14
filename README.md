@@ -1,4 +1,6 @@
-# Trading Terminal (Python)
+# Finance & Trading Terminal
+
+<img src="images/trading_chart.gif" width="600">
 
 This is a simple Python CLI project created for learning modular programming.
 

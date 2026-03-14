@@ -1,13 +1,13 @@
 def run():
     while True:
-        print("====================================")
-        print("            UTILITIES")
-        print("====================================")
-        print("1 - Percentage Change")
-        print("2 - Currency Converter")
-        print("3 - Tax Calculator")
-        print("4 - Back to Main Menu")
-        print("====================================")
+        print("╔══════════════════════════════════╗")
+        print("║            UTILITIES             ║")
+        print("╠══════════════════════════════════╣")
+        print("║      1 - Percentage Change       ║")
+        print("║      2 - Currency Converter      ║")
+        print("║      3 - Tax Calculator          ║")
+        print("║      4 - Back to Main Menu       ║")
+        print("╚══════════════════════════════════╝")
 
         secim = input("Seciminiz: ")
 
